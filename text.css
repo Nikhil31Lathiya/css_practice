@@ -1,0 +1,79 @@
+#txt{
+	color: purple;
+	border:2px solid red;
+	background-color: yellow;
+	width: 700px;
+	height: 300px;
+	text-align: left;
+/*	text-align: center;
+	text-align: right;
+	text-align: justify;
+*/
+	/*direction: rtl;*/
+
+	text-decoration: underline;
+	text-decoration: overline;
+	text-decoration: none;
+	/*text-decoration: line-through;*/
+
+	text-transform: uppercase;
+	text-transform: lowercase;
+	text-transform: capitalize;
+
+
+	line-height: 30px;
+	text-indent: 60px;
+	letter-spacing: 3px;
+	word-spacing: 2px;
+/*	white-space: pre;
+	white-space: nowrap;
+*/
+
+word-wrap: break-word;
+}
+
+
+/*img{
+	width:100px;
+	height: 100px;
+	vertical-align: top;
+	vertical-align: bottom;
+	vertical-align: center;
+}
+*/
+
+
+#shadow{
+	font-size: 100px;
+	padding-top: 100px;
+	text-align: center;
+	text-shadow: 10px -14px 7px red ;
+	text-shadow: 10px  14px 50px red ;
+	text-shadow: 1px   7px 7px red ;
+
+}
+
+
+#vertical{
+	border: 1px solid red;
+	width: 500px;
+	font-size: 100px;
+	writing-mode: vertical-rl;
+	writing-mode: vertical-lr;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+#div1{
+	height: 200px;
+	width: 200px;
+	margin: 100px;
+	background-color: red;
+	transition-property: all;
+	transition-delay: 500ms;
+	transition-duration: 1s;
+	/*transition-timing-function: ease-in-out;	*/
+	/*transition: property , duration , timing-function , delay;.....shortcut method......*/
+	
+}
+
+#div1:hover{
+	width: 500px;
+	height: 500px;
+	background-color: green;
+}

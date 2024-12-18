@@ -1,0 +1,15 @@
+#div1{
+	background-color: orange;
+	width: 400px;
+	height: 150px;
+}
+
+#div2{
+	background-color: blue;
+	width: 400px;
+	height: 150px;
+	padding: 50px;
+	border:10px solid black;
+	box-sizing: content-box;
+	/*box-sizing: border-box;*/
+}

@@ -1,0 +1,14 @@
+#border{
+/*	border-style:ridge;
+	border-width:60px 40px;	
+	border-color:red yellow blue green;*/
+
+	/*border-width: 20px ;
+	border-bottom-color: orange;
+	border-style: ridge;*/
+
+	border-style: ridge;
+	border-color: red yellow blue green;
+	border-width:40px;
+	/*border-radius:100%; 
+}

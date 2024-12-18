@@ -1,0 +1,56 @@
+/*4 types of position are there
+
+
+static
+relative
+fixed
+absolute
+
+
+
+top
+bottom 
+right 
+left
+*/
+
+body{
+	height: 1000px;
+}
+#parent{
+			border : 1px solid red;
+			padding : 20px ;
+			width:50%;
+			position : relative;
+}
+
+#one{
+		width: 100px;
+		height: 100px;
+		background-color: green;
+			display: inline-block;
+}
+
+#two{
+		width: 100px;
+		height: 100px;
+		background-color: blue;
+			display: inline-block;
+			position: absolute;
+/*			left:600px;
+			top:250px;
+*/
+
+		position: fixed;
+
+			right:10px;
+			bottom: 10px;
+
+}
+
+#three{
+		width: 100px;
+		height: 100px;
+		background-color: black;
+				display: inline-block;
+}

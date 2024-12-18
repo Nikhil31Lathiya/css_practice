@@ -1,0 +1,26 @@
+html{
+	font-size:14px;
+}
+
+#parent{
+			/*border: 1px solid black;
+height: 50vh;
+width:50vw;*/
+
+/*font-size: 4rem ;
+color:green;
+*/
+
+font-size:10vh;
+}
+
+
+#child{
+			/*border: 1px solid red;
+width:50%;*/
+
+/*font-size: 2em;
+*/
+
+font-size: 10vw
+}

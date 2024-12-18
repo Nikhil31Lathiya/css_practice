@@ -1,0 +1,28 @@
+:root{
+	--pcolor: red;
+	--btncolor : black;
+	--txtcolor : white;
+}
+
+
+
+
+
+#funk{
+
+		
+		background-color: var(--pcolor);
+		height: 200px;
+		width : calc(100%  -  200px);
+
+}
+
+a{
+	background-color: var(--btncolor);
+	padding : 10px 30px;
+	margin : 50px;
+	font-size: 30px;
+	text-decoration: none;
+	color: var(--txtcolor);
+
+}

@@ -1,0 +1,19 @@
+html{
+	font-size: 30px;
+}
+
+#green{
+			color:green;
+}
+
+#orange{
+	color:orange;
+}
+
+#initial{
+			color: initial;
+}
+
+#inherit{
+			color:inherit;
+}

@@ -1,0 +1,20 @@
+@font-face{
+	font-family:nik;
+	src: url('fonts/leaves_and_ground')
+}
+
+
+h1{
+	/*font-family: 'Train One', cursive;*/
+	font-family:nik;
+}
+
+p{/*
+	font-size:50px;
+	font-style:italic;
+	font-variant: small-caps;
+	font-family: 'Source Code Pro', monospace;
+	font-weight:lighter;
+*/
+
+}	

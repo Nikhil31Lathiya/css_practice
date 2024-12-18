@@ -1,0 +1,17 @@
+
+
+#div1{
+	border: 1px solid red;
+	height:200px ;
+	width : 500px ;
+	display: inline-block;
+	/*display: none;*/
+	visibility: hidden;
+}
+
+
+#div2{
+	border: 1px solid blue;
+	height:200px ;
+	width : 500px ;
+}

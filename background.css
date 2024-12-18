@@ -1,0 +1,10 @@
+body{
+	background-color: red;
+}
+
+#bg{
+	background-image: url('31.png');
+	background-repeat: contain;
+	background-position: center center;
+	background-attachment:scroll; 
+}

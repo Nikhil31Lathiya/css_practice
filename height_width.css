@@ -1,0 +1,13 @@
+body{
+	border:1px solid red;
+}
+
+
+#div1{
+	background-color: yellow;
+	height:200px;
+	width:500px;
+
+	max-width: 80%;
+	max-height:30%;
+}

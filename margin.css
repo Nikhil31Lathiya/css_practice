@@ -1,0 +1,31 @@
+.div1{
+	border: 2px solid red;
+
+padding: 25px 50px 30px 70px ;
+}
+
+body{
+	border: 5px dotted black;
+}
+
+#marg{
+	/*margin-top:-20px;
+	margin-bottom: -30px;
+	margin-left:5%;
+	margin-right:10%;
+	margin: 25px 50px;*/
+
+	/*width: 25%;
+	margin: 25px auto;
+	/*margin-top : 2% ;
+	margin-bottom: 2%;*/
+
+	margin-top: 25px;
+	
+}
+
+#nik{
+
+	margin-bottom: 100px;	
+
+}

@@ -1,0 +1,27 @@
+html{
+	font-size: 25px;
+}
+
+
+li:first-child{
+	color:red;
+}
+
+
+li:last-child{
+	color:red;
+}
+
+li:nth-child(4){
+	color: green;
+}
+
+li:nth-child(odd){
+	color:blue;
+}
+
+
+input :focus
+{
+	border: 2px solid red;
+}
